@@ -1,6 +1,6 @@
 > [!NOTE]
 Useful information that users should know, even when skimming content.
-# A first-level heading
+# En-têtes
 ## A second-level heading
 ### A third-level heading
 
