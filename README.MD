@@ -1,8 +1,8 @@
 > [!NOTE]
 Useful information that users should know, even when skimming content.
-#En-têtes 
-## Sous en-têtes
-### 3 ème en têtes
+# A first-level heading
+## A second-level heading
+### A third-level heading
 
 > [!CAUTION]
 > Erreur possible sur la compilation
